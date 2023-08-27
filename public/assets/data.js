@@ -1,0 +1,51 @@
+export let timelineData = [
+    {
+        id:0,
+        title:"Coopavel",
+        description:"aux administrativo: \n Controlar e panejar a compra e recebimento de materias primas para abastecimento fabril.(calcáreo e Fertilizantes)",
+        year:"2000 - 2004",
+        icon:"work",
+    },
+    {
+        id:1,
+        title:"Bunge Fertilizantes SA",
+        description:"analista de planejamento \n Controlar e panejar a compra e recebimento de materias primas para abastecimento fabril.(fertilizantes)",
+        year:"2004 - 2011",
+        icon:"work",
+    },
+    {
+        id:2,
+        title:"Yara Brasil Fertilizantes",
+        description:"Analista de logística: \n Análise de carteira, planejamento de rotas, acompanhamento de mercado, contratação de parceiros de transporte, interação com outras áreas, gestão do time de Logística da planta.",
+        year:"2011 - 2019",
+        icon:"work",
+    },
+    {
+        id:3,
+        title:"Coopavel Agroindustrial Cooperativa ",
+        description:"Supervisor de Operações Logísticas :\n Coordenar entrega da carteira de clientes\n\nOtimizar rotas para melhor aproveitamento da frota\n\nGestao da frota manutencao e disponibilidade\n\nGestao de custos da frota\n\nGestao de fretes terceiros\n\nGestao da equipe de 40 pessoas\n",
+        year:"2019-2021",
+        icon:"work",
+    },
+    {
+        id:4,
+        title:"Tirol Laticínios",
+        description:"Supervisor de Expedição:\nSupervisionar uma equipe de 50 pessoas\nGarantir o processo em todas as suas etapas\nResponsável técnico por inventários\nResponsável por 2 setores Armazenagem e Expedição.",
+        year:"2020-2021/fev",
+        icon:"work",
+    },
+    {
+        id:5,
+        title:"I. RIEDI GRÃOS E INSUMOS",
+        description:"Encarregado de Logística :\ncontrolar carteira de clientes\nDar suporte na cotação de fretes para otimizar os recursos\nGarantir entrega dentro do prazo estabelecido pelas filiais\nCoordenar logística interna para não haver retrabalho.\nFazer gestão de enrega entre as filiais.",
+        year:"2021-2022",
+        icon:"work",
+    },
+    {
+        id:6,
+        title:"GRUPOPETROPOLIS",
+        description:"Coordenador de Operações Logísticas:\nCoordenar as atividades de operações e distribuição logística, atuar no quadro de manutenção de frota buscando melhorias e redução de preço.\nresponsável coordenar as atividades de 50 pessoas.\nCoordenar 41 indicadores de performasse do CD .",
+        year:"desde novembro 2022",
+        icon:"work",
+    },
+]

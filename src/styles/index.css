@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Genos:wght@500&family=Karla:ital@1&family=Roboto:wght@300&family=Ubuntu:wght@500&display=swap');
+
+.vertical-timeline-element-date{
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+body {
+    background: linear-gradient(135deg, #140624, #035474);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.history_title{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.education-card {
+   
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    margin: 20px;
+    width: 40%;
+}
+
+.education-card h1 {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+.education-card p {
+    font-size: 1rem;
+    margin: 5px 0;
+}
+
+.education_container{
+    display: flex;
+    justify-content: center;
+}
