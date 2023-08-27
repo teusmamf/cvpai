@@ -9,7 +9,7 @@ import "react-vertical-timeline-component/style.min.css";
 import { useInView, useSpring } from "react-spring";
 import {motion as m } from "framer-motion";
 import { AnimatePresence } from "framer-motion";
-import { faBook,faBriefcase } from "@fortawesome/free-solid-svg-icons";
+import { faBook,faBriefcase ,faTree} from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function Timeline(router){
@@ -54,7 +54,7 @@ const [ref, inView] = useInView({
                             <h3 className="vertical_time_line_element_title">{element.title}</h3>
 
                             <div className="container_education">
-                            <FontAwesomeIcon icon={faBriefcase} className="icons"/>
+                            <FontAwesomeIcon icon={faTree} className="icons"/>
                             <p className="vertical_time_line_element_subtitle">{element.description}</p>
                             </div> 
                             
